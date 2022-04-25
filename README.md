@@ -8,6 +8,8 @@ the pixel to get the complete picture from the unsorted picture parts
 # Feature
 •	JAVA JFrame
 •	Bubble Sort 
+•	Graphics
+•	Thread
 
 
 Thank You
