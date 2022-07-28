@@ -17,16 +17,18 @@ This is a Sorting Visualizaton project.Purpose is to sort the pixel to get the O
 ```
 
 # Feature
-JAVA JFrame
-:-------------------------:| 
+<table>
 
-Bubble Sort 
-:-------------------------:|
+  <tr>
+    <td>JAVA JFrame</td>
+    <td>Bubble Sort</td>
+    <td>Graphics</td>
+    <td>Thread</td>
+  </tr>
 
-Graphics 
-:-------------------------:| 
 
-Thread 
-:-------------------------:|
+</table>
+
+
 
 
